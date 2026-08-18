@@ -40,4 +40,4 @@ The goal of this project was to analyze the Airbnb market in Dublin to help pote
 ## 👨‍💻 Author
 
 Gabriel Amadeu Santos
-Aspiring Data Engineer | Background in Audit & Analytics
+Data Analyst
